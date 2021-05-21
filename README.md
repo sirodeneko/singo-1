@@ -6,11 +6,11 @@ go-crud正式改名为Singo!
 
 使用Singo开发Web服务: 用最简单的架构，实现够用的框架，服务海量用户
 
-https://github.com/bydmm/singo
+https://github.com/Gourouting/singo
 
 ## Singo文档
 
-https://singo.gourouting.com/
+https://gourouting.github.io/
 
 ## 视频实况教程
 
@@ -18,7 +18,7 @@ https://singo.gourouting.com/
 
 ## 使用Singo开发的项目实例
 
-https://github.com/bydmm/giligili
+https://github.com/Gourouting/giligili
 
 ## 目的
 
@@ -29,7 +29,7 @@ https://github.com/bydmm/giligili
 本项目已经整合了许多开发API所必要的组件：
 
 1. [Gin](https://github.com/gin-gonic/gin): 轻量级Web框架，自称路由速度是golang最快的 
-2. [GORM](http://gorm.io/docs/index.html): ORM工具。本项目需要配合Mysql使用 
+2. [GORM](https://gorm.io/index.html): ORM工具。本项目需要配合Mysql使用 
 3. [Gin-Session](https://github.com/gin-contrib/sessions): Gin框架提供的Session操作工具
 4. [Go-Redis](https://github.com/go-redis/redis): Golang Redis客户端
 5. [godotenv](https://github.com/joho/godotenv): 开发环境下的环境变量工具，方便使用环境变量
